@@ -1,0 +1,8 @@
+## Creative Commons のブログ翻訳
+* [楽譜を開放するためのOPENSCOREの計画](https://creativecommons.jp/2018/09/20/8881/)
+* [BLENDER INSTITUTEのTON ROOSENDAALが語る、オープンライセンスの活用とアーティストとしての成功について](https://creativecommons.jp/2018/09/28/blender-institute%e3%81%aeton-roosendaal%e3%81%8c%e8%aa%9e%e3%82%8b%e3%80%81%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%83%a9%e3%82%a4%e3%82%bb%e3%83%b3%e3%82%b9%e3%81%ae%e6%b4%bb%e7%94%a8%e3%81%a8/)
+* [MIKE WINKELMANN (別名: BEEPLE)のアートとEVERY DAYについて](https://creativecommons.jp/2018/11/04/mike-winkelmann-%e5%88%a5%e5%90%8d-beeple%e3%81%ae%e3%82%a2%e3%83%bc%e3%83%88%e3%81%a8every-day%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/)
+* [今こそオープンアクセスポリシーが重要なときだ](https://creativecommons.jp/2020/04/01/%e4%bb%8a%e3%81%93%e3%81%9d%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e3%83%9d%e3%83%aa%e3%82%b7%e3%83%bc%e3%81%8c%e9%87%8d%e8%a6%81%e3%81%aa%e3%81%a8%e3%81%8d%e3%81%a0/)
+* [OPEN COVID プレッジ：COVID-19終息に向けた知的財産の共有](https://creativecommons.jp/2020/06/22/open-covid-%e3%83%97%e3%83%ac%e3%83%83%e3%82%b8%ef%bc%9acovid-19%e7%b5%82%e6%81%af%e3%81%ab%e5%90%91%e3%81%91%e3%81%9f%e7%9f%a5%e7%9a%84%e8%b2%a1%e7%94%a3%e3%81%ae%e5%85%b1%e6%9c%89/)
+* [学術出版物を「改変禁止」ライセンスで共有することが不適切である理由](https://creativecommons.jp/2020/06/22/%e5%ad%a6%e8%a1%93%e5%87%ba%e7%89%88%e7%89%a9%e3%82%92%e3%80%8c%e6%94%b9%e5%a4%89%e7%a6%81%e6%ad%a2%e3%80%8d%e3%83%a9%e3%82%a4%e3%82%bb%e3%83%b3%e3%82%b9%e3%81%a7%e5%85%b1%e6%9c%89%e3%81%99%e3%82%8b/)
+* [OPEN COVID プレッジに大手テック企業が参加](https://creativecommons.jp/2020/06/22/open-covid-%e3%83%97%e3%83%ac%e3%83%83%e3%82%b8%e3%81%ab%e5%a4%a7%e6%89%8b%e3%83%86%e3%83%83%e3%82%af%e4%bc%81%e6%a5%ad%e3%81%8c%e5%8f%82%e5%8a%a0/)
