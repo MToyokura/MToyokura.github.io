@@ -5,5 +5,6 @@
 * [Pythonで自己相関グラフ(コレログラム)を描く(Qiita記事)](https://qiita.com/MToyokura/items/8a58cb43e634e6421834)
 * Creative Commons blog を翻訳したもの→[リスト作りました](pages/ccjp_blog_links)
 * 2019/12/14に行われた、[CCJPオープンミーティング](https://creativecommons.jp/2020/01/20/openmeetingreport/)で発表した[スライド](https://komtmt.files.wordpress.com/2020/01/katsuyoujirei_20191214.pdf)（1と3を担当しました。）
-* [OpenStax CNX の Principles of Microeconomics 2e を大学の有志と一緒に翻訳してるサイト](https://mtoyokura.github.io/Principles-of-Microeconomics-2e-Japanese/)(休止中)
+* (休止中)[OpenStax CNX の Principles of Microeconomics 2e を大学の有志と一緒に翻訳してるサイト](https://mtoyokura.github.io/Principles-of-Microeconomics-2e-Japanese/)
 * Mark Dimmock と Andrew Fisherによる「Ethics for A-Level」を [Better Late Than Never氏](https://medium.com/@BetterLateThanNever)が翻訳したものを bookdown 形式として[移植したサイト](https://mtoyokura.github.io/Ethics-for-A-Level-Japanese/)（bookdown の練習を兼ねて。）
+* [青果物卸売市場調査日別結果ダウンロード用 Python パッケージ](https://github.com/MToyokura/seikaoroshi)
