@@ -1,4 +1,5 @@
-## Creative Commons のブログ翻訳
+## Creative Commons blog の翻訳記事
+
 * [楽譜を開放するためのOPENSCOREの計画](https://creativecommons.jp/2018/09/20/8881/)
 * [BLENDER INSTITUTEのTON ROOSENDAALが語る、オープンライセンスの活用とアーティストとしての成功について](https://creativecommons.jp/2018/09/28/blender-institute%e3%81%aeton-roosendaal%e3%81%8c%e8%aa%9e%e3%82%8b%e3%80%81%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%83%a9%e3%82%a4%e3%82%bb%e3%83%b3%e3%82%b9%e3%81%ae%e6%b4%bb%e7%94%a8%e3%81%a8/)
 * [MIKE WINKELMANN (別名: BEEPLE)のアートとEVERY DAYについて](https://creativecommons.jp/2018/11/04/mike-winkelmann-%e5%88%a5%e5%90%8d-beeple%e3%81%ae%e3%82%a2%e3%83%bc%e3%83%88%e3%81%a8every-day%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/)
