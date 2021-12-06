@@ -14,8 +14,8 @@
 * CCライセンスを活用されている方々への[インタビュー記事](pages/ccjp_blog_links_interviews)
 * 2019/12/14 に行われた、[CCJPオープンミーティング](https://creativecommons.jp/2020/01/20/openmeetingreport/)で発表した[スライド](https://komtmt.files.wordpress.com/2020/01/katsuyoujirei_20191214.pdf)（1と3を担当しました。）
 * 2021/6/12 に行われた、[CCJP年次報告会2021](https://creativecommons.jp/2021/05/19/ccjpnenji2021/)で発表した[スライド](https://docs.google.com/presentation/d/1wO5ri2FA7DjSAnu54tNoBGdNkb9uCtZVdWO2oUZoY1U/edit?usp=sharing)。「[CCJP年次報告書 2020年度](https://creativecommons.jp/2021/07/13/ccjp_annualreport_fy2020/)」にもスライドの内容が文字としてまとめてあります。
-* [The Open Revolution](https://openrevolution.net/) の訳本（最終版が公開され次第リンクします）
-* [デジタル時代の価値創出の姿：『オープン・レボリューション』翻訳記念イベント](https://peatix.com/event/2942382)で発表した[スライド](https://docs.google.com/presentation/d/1EfYDs7QyFq2Ky9270lGX_3yO8OvGW3hJG0EWW7-Yanc/edit?usp=sharing)。
+* [The Open Revolution](https://openrevolution.net/) の[訳本](https://docs.google.com/document/d/1MXiRWb8SiXhTNdr-UF1hWoXOoA8tzL0zaOhToZQtcWM/edit)
+* [デジタル時代の価値創出の姿：『オープン・レボリューション』翻訳記念イベント](https://creativecommons.jp/2021/12/04/%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%83%ac%e3%83%9c%e3%83%aa%e3%83%a5%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e7%bf%bb%e8%a8%b3%e8%a8%98%e5%bf%b5%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88/)で発表した[スライド](https://docs.google.com/presentation/d/1EfYDs7QyFq2Ky9270lGX_3yO8OvGW3hJG0EWW7-Yanc/edit?usp=sharing)。
 
 ### その他翻訳関係
 
